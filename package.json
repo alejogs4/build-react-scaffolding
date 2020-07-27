@@ -1,0 +1,26 @@
+{
+  "name": "react-scaffolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "CLI",
+    "react",
+    "node",
+    "scaffolder"
+  ],
+  "author": "Alejandro Garcia Serna <alejogs4@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "build-react-scaffolder": "./cli.js"
+  },
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}

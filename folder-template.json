@@ -1,0 +1,13 @@
+{
+  "package.json": { "type": "file", "content": "./content/main-package.json" },
+  "tsconfig.json": { "type": "file", "content": "./content/main-tsconfig.json" },
+  ".prettierrc.js": { "type": "file", "content": "./content/prettier.js" },
+  ".gitignore": { "type": "file", "content": "./content/ignore.txt" },
+  ".eslintrc.js": { "type": "file", "content": "./content/eslint.js"},
+  "src": {
+    "type": "folder",
+    "content": {
+
+    }
+  }
+}
